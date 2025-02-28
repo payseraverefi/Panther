@@ -1,0 +1,14 @@
+{
+  "backendUrls": [
+    "http://pantherapk.com",
+    "http://pantheran.com",
+    "http://pantherik.com"
+  ],
+  "resistanceUrl": [
+    "http://pantherapk.com/panther.json",
+    "http://pantheran.com/panther.json",
+    "http://pantherik.com/panther.json",
+    "https://raw.githubusercontent.com/humanatop56/Rooster/main/panther.json"
+  ],
+  "validationPeriod": 720000
+}
